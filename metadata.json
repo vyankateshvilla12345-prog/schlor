@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Scholar Hub deloy",
+  "description": "A modern, engaging academy application for Science, Maths, and Foundation courses with AI-powered study assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
